@@ -48,25 +48,8 @@
   font-size: 20px;
   padding: 10px;
 }
-/* section-2  */
-.service-box {
-  text-align: center;
-  /* background-color: azure; */
-}
 
-.text-capitalize {
-  text-align: justify;
-  padding: 5px;
-}
-/* <!-- section-3  -->  */
-
-.section-head {
-  font-size: 50px;
-  background-color: black;
-  padding: 10px;
-  text-decoration: underline;
-}
-/* <!-- section-4  -->  */
+/* <!-- section-2  -->  */
 #test {
   background-image: url("./images1/photo-2.jpg");
   background-size: cover;
@@ -87,10 +70,14 @@
 .section-head {
   color: azure;
   text-align: center;
+  font-size: 50px;
+  margin-bottom: 10px;
+  text-decoration: underline;
 }
 .p {
   color: azure;
   font-size: larger;
+  margin-top: 20px;
 }
 .other {
   color: azure;
@@ -102,4 +89,8 @@
   margin-left: 110px;
   font-size: 2.3rem;
 }
-/* <!-- section-5 -- */
+/* <!-- section-3 -- */
+.card .card-title {
+  color: rgb(192, 33, 33);
+}
+/* <!-- section-4 -- */

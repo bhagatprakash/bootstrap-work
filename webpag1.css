@@ -7,6 +7,9 @@
     url(./images1/coding\ with\ girls.webp);
   background-size: cover;
 }
+.collapse  {
+  justify-content: flex-end;
+}
 .h-100 {
   height: 100%;
   width: 100%;
@@ -15,7 +18,6 @@
   border-radius: 15px;
   font-size: larger;
   font-weight: bold;
-  /* padding: 10px; */
 }
 /* massage  */
 .message {

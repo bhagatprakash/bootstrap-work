@@ -1,28 +1,12 @@
-.bg-p {
+.headers {
   background-color: orangered;
 }
-.navbar-nav {
-  display: flex;
-  flex-direction: row;
-
-  margin-left: 50px;
-}
-.nav-item {
-  margin-left: 30px;
-}
-.ul-1 {
-  padding-left: 150px;
-  /* margin-left: 50px; */
-}
-.btn-1 {
+.btn-contact {
   background-color: orangered;
-  width: 90px;
-  color: white;
+  color: black;
+  border-radius: 10px;
+  text-decoration: none;
 }
-.slider img {
-  opacity: 0.8;
-}
-
 /* slider  */
 
 .carousel-item img {

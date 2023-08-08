@@ -26,7 +26,7 @@
 
 /* section-1  */
 #banner {
-  background-image: url("./images1/photo-1.jpg");
+  background-image: url("../images1/photo-1.jpg");
   background-size: cover;
   background-position: center center;
 }
@@ -51,7 +51,7 @@
 
 /* <!-- section-2  -->  */
 #test {
-  background-image: url("./images1/photo-2.jpg");
+  background-image: url("../images1/photo-2.jpg");
   background-size: cover;
   padding: 50px 0;
   position: relative;

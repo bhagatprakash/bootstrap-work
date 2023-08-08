@@ -9,3 +9,9 @@ h1 {
   height: 420px;
   width: 520px;
 }
+
+@media (max-width: 530px) {
+  .card {
+    margin-top: 10px;
+  }
+}
